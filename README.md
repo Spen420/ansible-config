@@ -8,7 +8,6 @@ hi ansible one
 save artifacts
 hello artifact
 this is a new year
-my year of upliftment
 <<<<<<< HEAD
 working on save java file
 today is tuesday
