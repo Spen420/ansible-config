@@ -1,7 +1,6 @@
 # ansible-config
 
 <<<<<<< HEAD
-hi ansible
 save artifacts
 hi ansible one
 =======
