@@ -2,5 +2,9 @@ checking my jenkins out
 new year resolutions
 getting it right
 skills enhancement
+<<<<<<< HEAD
 some conflicts
 today is wednesday
+=======
+its sunday
+>>>>>>> 3c8343a7c49565672caaca3b1144743bdbb6cc63
